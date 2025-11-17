@@ -8,7 +8,7 @@ Tu peux le **copier-coller directement dans ton GitHub ou ton Notion**.
 
 ---
 
-# 📘 Cahier des Charges Fonctionnel – Projet Voiture Autonome (F1Tenth / Saclay)
+# Cahier des Charges Fonctionnel – Projet Voiture Autonome (F1Tenth / Saclay)
 
 ---
 
