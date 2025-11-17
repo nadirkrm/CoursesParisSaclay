@@ -1,12 +1,4 @@
 # CoursesParisSaclay
-Voici **le cahier des charges fusionné complet**, propre, clair, en **Markdown**, intégrant :
-
-* le premier CDC détaillé (fonctionnel / matériel / ROS2 / critères d’acceptation)
-* le deuxième CDC (planning + matériel déjà disponible + gestion des séances + organisation d’équipe)
-
-Tu peux le **copier-coller directement dans ton GitHub ou ton Notion**.
-
----
 
 # Cahier des Charges Fonctionnel – Projet Voiture Autonome (F1Tenth / Saclay)
 
