@@ -47,7 +47,7 @@ Le projet doit être mené entre trois étudiants, en équipe structurée.
 
 ---
 
-# 3. ⚙️ Contraintes
+# 3. Contraintes
 
 ## 3.1 Techniques
 
